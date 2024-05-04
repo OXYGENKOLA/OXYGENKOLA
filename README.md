@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OXYGENKOLA
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
+- 🌱 I can work on javascript project
+- I'm currently learnig Flutter
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me, chat me on +2348108521416
 
